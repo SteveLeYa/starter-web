@@ -17,3 +17,7 @@ this is section 1
 ### deployment
 
 something about deployment
+
+### Copyright
+
+the copyright
