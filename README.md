@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 whoppie-do
 
-some more text
+some more text, more changes on feature branche
 
 ## Purpose
 
