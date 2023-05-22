@@ -24,4 +24,4 @@ something about deployment
 
 ### Copyright
 
-the copyright
+the copyright, all rights reserved
